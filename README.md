@@ -2,7 +2,7 @@
 
 > Enterprise-style hybrid cloud architecture connecting an on-premises homelab to AWS using a dedicated Transit VPC, FortiGate Network Virtual Appliance (NVA), AWS Transit Gateway, and dynamic routing over IPsec.
 
-![Architecture](Enterprise_Hybrid_Cloud.png)
+![Architecture](diagrams/Enterprise_Hybrid_Cloud.png)
 
 ---
 
