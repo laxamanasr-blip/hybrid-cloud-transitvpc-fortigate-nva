@@ -121,7 +121,16 @@ Instead of using static routes, routing is exchanged dynamically through **eBGP*
 
 No manual route updates are required when advertised prefixes change.
 
----
+# On-premise OPNSENSE Firewall - Edge GW going to AWS
+
+![OPNIPSEC](screenshots/OPNSENSE_IPSEC)
+![OPNBGP](screenshots/OPNSENSE_BGP)
+
+# AWS Fortigate NVA in transit VPC
+
+![FGT](screenshots/AWS_Fortigate)
+![FGTIPSEC](screenshots/Fortigate_IPSEC)
+![FGTBGP](screenshots/FGT_BGP_Routing_Table)
 
 # Why a Transit VPC?
 
