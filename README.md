@@ -124,12 +124,12 @@ No manual route updates are required when advertised prefixes change.
 # On-premise OPNSENSE Firewall - Edge GW going to AWS
 
 ![OPNIPSEC](screenshots/OPNSENSE_IPSEC.png)
-![OPNBGP](screenshots/OPNSENSE_BGP.png)
+![OPNBGP](screenshots/OPNSENSE_BGP_Routing_table.png)
 
 # AWS Fortigate NVA in transit VPC
 
 ![FGT](screenshots/AWS_Fortigate.png)
-![FGTIPSEC](screenshots/Fortigate_IPSEC.png)
+![FGTIPSEC](screenshots/Foritate_IPSEC.png)
 ![FGTBGP](screenshots/FGT_BGP_Routing_Table.png)
 
 # Why a Transit VPC?
