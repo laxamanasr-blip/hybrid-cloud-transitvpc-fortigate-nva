@@ -123,14 +123,14 @@ No manual route updates are required when advertised prefixes change.
 
 # On-premise OPNSENSE Firewall - Edge GW going to AWS
 
-![OPNIPSEC](screenshots/OPNSENSE_IPSEC)
-![OPNBGP](screenshots/OPNSENSE_BGP)
+![OPNIPSEC](screenshots/OPNSENSE_IPSEC.png)
+![OPNBGP](screenshots/OPNSENSE_BGP.png)
 
 # AWS Fortigate NVA in transit VPC
 
-![FGT](screenshots/AWS_Fortigate)
-![FGTIPSEC](screenshots/Fortigate_IPSEC)
-![FGTBGP](screenshots/FGT_BGP_Routing_Table)
+![FGT](screenshots/AWS_Fortigate.png)
+![FGTIPSEC](screenshots/Fortigate_IPSEC.png)
+![FGTBGP](screenshots/FGT_BGP_Routing_Table.png)
 
 # Why a Transit VPC?
 
@@ -148,6 +148,7 @@ The Transit VPC acts as a dedicated network services layer.
 
 Application workloads remain isolated from VPN termination and routing infrastructure.
 
+![TGW](screenshots/TransitGW_Attachments.png)
 ---
 
 ### Centralized Security
