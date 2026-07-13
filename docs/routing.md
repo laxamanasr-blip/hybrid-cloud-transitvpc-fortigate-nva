@@ -95,7 +95,7 @@ Because the AWS prefixes are learned via eBGP, the packet is forwarded through t
 
 ### Screenshot
 
-![OPNSENSEBGP](screenshots/OPNSENSE_ROUTE_TABLE.png)
+![OPNSENSEBGP](/screenshots/OPNSENSE_ROUTE_TABLE.png)
 
 ---
 
@@ -117,7 +117,7 @@ Traffic destined for the Main Application VPC is forwarded to the Transit Gatewa
 
 ### Screenshot
 
-![FGTBGPROUTE](screenshots/FGT_BGP_Routing_Table.png)
+![FGTBGPROUTE](/screenshots/FGT_BGP_Routing_Table.png)
 
 ---
 
@@ -129,7 +129,7 @@ Using its route table, TGW determines the correct attachment for the destination
 
 ### Screenshot
 
-![TGWRT](screenshots/TransitGW_Routes.png)
+![TGWRT](/screenshots/TransitGW_Routes.png)
 
 ---
 
@@ -141,7 +141,7 @@ The packet is delivered to the EC2 instance hosting AdGuard Home.
 
 ### Screenshot
 
-![MAINVPCRT](screenshots/Main_VPC_Route_Table.png)
+![MAINVPCRT](/screenshots/Main_VPC_Route_Table.png)
 
 ---
 
@@ -244,7 +244,7 @@ Hybrid connectivity was verified using the following tests:
 
 ### Tunnel Status
 
-![FGTIPSEC](screenshots/Fortigate_IPSEC.png)
+![FGTIPSEC](/screenshots/Fortigate_IPSEC.png)
 
 ---
 
