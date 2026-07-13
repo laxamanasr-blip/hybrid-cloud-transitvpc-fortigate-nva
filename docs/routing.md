@@ -95,7 +95,7 @@ Because the AWS prefixes are learned via eBGP, the packet is forwarded through t
 
 ### Screenshot
 
-![OPNSENSEBGP](/screenshots/OPNSENSE_ROUTE_TABLE.png)
+![OPNSENSERT](/screenshots/OPNSENSE_ROUTE_TABLE.png)
 
 ---
 
@@ -244,7 +244,7 @@ Hybrid connectivity was verified using the following tests:
 
 ### Tunnel Status
 
-![FGTIPSEC](/screenshots/Fortigate_IPSEC.png)
+![FGTIPSEC](/screenshots/Foritate_IPSEC.png)
 
 ---
 
