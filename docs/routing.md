@@ -239,7 +239,7 @@ Hybrid connectivity was verified using the following tests:
 
 ### Ping Test
 
-![TraffictoAWS](screenshots/Traffic_to_aws.png)
+![TraffictoAWS](/screenshots/Traffic_to_aws.png)
 ---
 
 ### Tunnel Status
