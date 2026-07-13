@@ -130,7 +130,7 @@ No manual route updates are required when advertised prefixes change.
 
 ![FGT](screenshots/AWS_Fortigate.png)
 ![FGTIPSEC](screenshots/Foritate_IPSEC.png)
-![FGTBGP](screenshots/FGT_BGP_Routing_Table.png)
+![FGTBGP](screenshots/FGT_Interfaces.png)
 
 # Why a Transit VPC?
 
