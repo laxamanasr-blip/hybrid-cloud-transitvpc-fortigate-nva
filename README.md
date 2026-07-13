@@ -300,7 +300,6 @@ This project reinforced several enterprise networking concepts:
 └── docs/
     ├── bgp.md
     ├── transit-gateway.md
-    ├── vpn.md
     └── routing.md
 ```
 
