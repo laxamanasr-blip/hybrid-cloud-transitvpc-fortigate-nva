@@ -150,7 +150,7 @@ Application workloads remain isolated from VPN termination and routing infrastru
 
 #Transit Gateway Attachments
 
-![TGW](screenshots/TransitGW_Attachments.png)
+![TGW](screenshots/TGW.png)
 ---
 
 ### Centralized Security
