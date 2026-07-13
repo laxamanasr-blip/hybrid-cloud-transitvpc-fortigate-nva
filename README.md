@@ -148,7 +148,7 @@ The Transit VPC acts as a dedicated network services layer.
 
 Application workloads remain isolated from VPN termination and routing infrastructure.
 
-#Transit Gateway Attachments
+### TGW
 
 ![TGW](screenshots/TGW.png)
 ---
